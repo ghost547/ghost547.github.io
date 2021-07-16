@@ -34,7 +34,7 @@ aside{
 }
 article{
   display: flex;
-  flex-grow: 3;
+  flex-grow: 2;
 }
 footer{
   display: flex;
