@@ -4,9 +4,14 @@ a {
 a:hover{ 
   color:green;
 }
+header{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
 body{
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: column;
 }
 main{
   display: flex;
@@ -21,10 +26,6 @@ aside{
 article{
   display: flex;
   flex: 3;
-}
-header{
-  display: flex;
-  justify-content: center;
 }
 footer{
   display: flex;
