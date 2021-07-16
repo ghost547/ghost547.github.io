@@ -4,11 +4,6 @@ a {
 a:hover{ 
   color: green;
 }
-
-header{
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
 body{
   display: flex;
   flex-direction: column;
@@ -20,15 +15,15 @@ main{
   flex: auto;
 }
 aside{
-  display: flex;
-  flex-basis: 1;
+  flex: 1;
 }
 article{
-  display: flex;
-  flex-basis: 3;
+  flex: 3;
 }
+  header{
+  justify-content: center;
+  align-items: flex-start;
 footer{
-  display: flex;
   justify-content: center;
   align-items: flex-end;
 }
