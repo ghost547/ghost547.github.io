@@ -10,7 +10,6 @@ body{
 }
 main{
   display: flex;
-  justify-content: center;
   align-items: center;
   flex: auto;
 }
@@ -19,4 +18,10 @@ aside{
 }
 article{
   flex: 3;
+}
+header{
+  justify-content: center;
+}
+footer{
+  justify-content: center;
 }
