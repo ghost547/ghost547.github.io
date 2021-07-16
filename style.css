@@ -10,7 +10,7 @@ body{
 }
 main{
   display: flex;
-  align-items: center;
+  align-items: stretch;
   flex: auto;
 }
 aside{
