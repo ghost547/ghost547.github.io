@@ -4,6 +4,14 @@ a {
 a:hover{ 
   color:green;
 }
+footer{
+  color:black;
+}
+aside{color:
+  blue;
+}
+article{color：yellow;
+}
 header{
   display: flex;
   justify-content: center;
