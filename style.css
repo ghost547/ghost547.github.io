@@ -6,7 +6,7 @@ a:hover{
 }
 body{
   display: flex;
-  flex-direction: column;
+  flex-direction: row-reverse;
 }
 main{
   display: flex;
