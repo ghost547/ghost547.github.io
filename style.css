@@ -30,11 +30,11 @@ main{
 }
 aside{
   display: flex;
-  flex-grow: 1;
+  flex-basis: 1;
 }
 article{
   display: flex;
-  flex-grow: 2;
+  flex-basis: 3;
 }
 footer{
   display: flex;
