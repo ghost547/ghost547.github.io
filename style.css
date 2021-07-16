@@ -2,15 +2,16 @@ a {
   color: red;
 }
 a:hover{ 
-  color:green;
+  color: green;
 }
 footer {
-  color:black;
+  color: black;
 }
-aside {color:
-  blue;
+aside {
+  color: blue;
 }
-article {color：yellow;
+article {
+  color：yellow;
 }
 header{
   display: flex;
