@@ -21,11 +21,11 @@ main{
 }
 aside{
   display: flex;
-  flex: 1;
+  flex-grow: 1;
 }
 article{
   display: flex;
-  flex: 3;
+  flex-grow: 3;
 }
 footer{
   display: flex;
