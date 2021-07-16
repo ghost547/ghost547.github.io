@@ -1,3 +1,33 @@
 a {
-  color: green;
+  color: red;
+}
+a:hover{ 
+  color:green;
+}
+body{
+  display: flex;
+  flex-direction: column;
+}
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: auto;
+}
+aside{
+  display: flex;
+  flex: 1;
+}
+article{
+  display: flex;
+  flex: 3;
+}
+header{
+  display: flex;
+  justify-content: center;
+}
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
 }
