@@ -4,7 +4,7 @@ a:hover{
 body{
   display: flex;
   flex-direction: column;
-  	background-color:bisque;
+  	
 }
 main{
   display: flex;
@@ -13,30 +13,30 @@ main{
 }
 aside{
 	flex: 1;
-	background-color:bisque;
-		
-}
-  article{
+		}
+	article{
 	 flex: 3;
 }
 header{
 	display: flex;
 	justify-content: center;
-	background-color:bisque;
 }
 iframe{ 
 	display: flex;
-	justify-content:center ;
-}
-footer{
-	display: flex;
-    justify-content:center;
+	justify-content:center
+};
   }	
   h1{
 	  display: flex;
-	  justify-content:center;
-	  }
-
+	  justify-content:center;}
+footer {
+  display: flex;
+  font-size: 12px;
+  justify-content: flex-end;
+  align-items: flex-start;
+	  
+  }
+   
 #A{
     position:fixed;
     top: 0;
@@ -53,3 +53,8 @@ footer{
     -o-background-size: cover;
     background-position: center 0;
 }
+.ff {width: 1000px;}
+main{color:white;}
+header{color:white;}
+footer{color:white;}
+a{color:white;}
